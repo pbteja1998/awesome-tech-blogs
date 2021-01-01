@@ -193,5 +193,27 @@ module.exports = [
       'HTML',
       'Front End'
     ],
+  }, 
+  {
+    name: 'Bhanu Teja Pachipulusu',
+    description: 'Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex.
+
+Building https://coderplex.in
+
+Checkout my portfolio at https://bhanuteja.dev',
+    url: 'https://blog.bhanuteja.dev',
+    twitter: '@pbteja1998',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript', 
+      'React.js',
+      'Next.js',
+      'GraphQL', 
+      'TailwindCSS', 
+      'Front End',
+      'HTML', 
+      'CSS', 
+    ],
   }
 ];
